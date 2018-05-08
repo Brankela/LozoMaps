@@ -1,0 +1,28 @@
+/*@media(min-width:x px){
+    
+    }*/
+@media(max-width:992px){
+    .desno{
+        display:  none;
+    }
+}
+@media(max-width:585px){
+    .lozologo h1{
+        font-size: 40px;
+    }
+}
+@media(max-width:585px){
+    .lozologo p{
+        font-size: 10px;
+    }
+}
+@media(max-width:585px){
+    .about p{
+        font-size: 100%;
+    }
+}
+@media(max-width:300px){
+    .mr-3{
+        width: 100%;
+    }
+}
