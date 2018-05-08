@@ -113,4 +113,9 @@ h5 {
 	background-color: #171717;
 	height: 50px;
 	width: 100%;
+	color: white;
+	font-size: 11px;
+	text-align: center;
+	padding: 10px;
 }
+
