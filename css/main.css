@@ -105,8 +105,35 @@ h5 {
     margin-bottom: 0px;
 }
 .kraj {
-	padding-top: 100px;
+	padding-top: 30px;
 	color: white;
+
+}
+.gtr {
+	text-align: center;
+	margin-top: 10px;
+}
+.gtr img {
+	margin: 10px;
+	border: 1px solid white;
+}
+.gtr a:hover {
+	opacity: .7;
+	}
+span h2 {
+	font-family: 'Black Ops One', cursive;
+	color: white;
+	text-align: center;
+	padding-top: 10px;
+}
+span h3 {
+	font-family: 'Black Ops One', cursive;
+	color: white;
+	text-align: center;
+	padding-top: 10px;
+}
+h3 a:hover {
+	text-decoration: none;
 }
 .crno {
 	background-color: #171717;
