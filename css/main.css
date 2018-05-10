@@ -191,3 +191,10 @@ h3 a:hover {
         margin-left: 10%;
     }
 }
+@media only screen and (max-width: 340px) {
+    .gtr {
+        width: 50%;
+        text-align: center;
+        margin-left: 8%;
+    }
+}
